@@ -1,0 +1,5 @@
+{
+  "TargetIP": "127.0.0.1",
+  "TargetPort": "1337",
+  "BufferPrefix": ""
+}
